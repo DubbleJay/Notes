@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/typeface_item"
+        android:title="@string/font" />
+
+    <item android:id="@+id/text_size"
+        android:title="@string/text_size" />
+
+    <item android:id="@+id/text_color_item"
+        android:title="@string/text_color" />
+
+    <item android:id="@+id/background_color_item"
+        android:title="@string/background_color" />
+
+    <item android:id="@+id/edit_note_title_item"
+        android:title="@string/edit_note_title" />
+
+    <item android:id="@+id/delete_note_item"
+        android:title="@string/delete_note" />
+
+</menu>
