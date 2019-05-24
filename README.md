@@ -1,1 +1,1 @@
-I noticed Android doesn't come with a default text editor so I decided to make a simple one myself.
+I noticed Android doesn't come with a default text editor so I decided to make a simple one myself. The user is able to select various attributes for each note such as text size, text color, and font. The data is saved and loaded via a SQLite database.
