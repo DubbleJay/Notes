@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".NoteFragmentActivity"
-            android:parentActivityName=".MainMenuActivity">
+            android:parentActivityName=".MainMenuActivity"
+            android:launchMode="singleTop">
         </activity>
     </application>
 
